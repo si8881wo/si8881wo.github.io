@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Scientific Projects"
 permalink: /projects/scientific/
 ---
