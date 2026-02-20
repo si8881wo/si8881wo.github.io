@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: index
 ---
 
 Welcome to my personal website.
