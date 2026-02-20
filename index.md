@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% link {{ page.my_variable }} %}
+
 Welcome to my personal website.
 
 [About me](about/me)
