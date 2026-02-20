@@ -1,14 +1,15 @@
 ---
 layout: default
+permalink: main
 ---
 
 Welcome to my personal website.
 
-[About me](about/me/)
+[About me](about/me)
 
 [CV](about/cv)
 
-[Personal projects](projects/personal/)
+[Personal projects](projects/personal)
 
 [Scientific projects](projects/scientific)
 
