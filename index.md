@@ -3,8 +3,6 @@ layout: default
 permalink: index
 ---
 
-{% link {{ page.permalink }} %}
-
 Welcome to my personal website.
 
 [About me](about/me)
