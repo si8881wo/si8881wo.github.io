@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% link {{ page.my_variable }} %}
+{% link {{ page.permalink }} %}
 
 Welcome to my personal website.
 
