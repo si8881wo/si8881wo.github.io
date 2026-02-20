@@ -8,4 +8,4 @@ permalink: /about/me/
 
 Here I will write a few words about myself!
 
-[Back](/)
+[Back]({{ site.url }}/)
