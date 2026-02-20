@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: main
+permalink: /index/
 ---
 
 Welcome to my personal website.
