@@ -1,5 +1,3 @@
-# simonwozny.github.io
+# My personal website
 
-My personal website
-
-[Link to a test page](test)
+In this repo I am building and maintaining my personal website via github pages.
