@@ -5,3 +5,5 @@ permalink: /projects/personal/
 ---
 
 Here I will write about my personal projects.
+
+[Back to main]({{ site.url }}/)
