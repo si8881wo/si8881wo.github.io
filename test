@@ -1,6 +1,6 @@
-layout: page
+layout: default
 title: "Test page"
-permalink: /testpage/
+permalink: /test/
 
 Here I'm just testing how to set up a page and how things look.
 
