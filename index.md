@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: index
 ---
 
 {% link {{ page.permalink }} %}
