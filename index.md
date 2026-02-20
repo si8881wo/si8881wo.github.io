@@ -4,9 +4,9 @@ layout: default
 
 Welcome to my personal website.
 
-[About me](about)
+[About me](about/me)
 
-[CV](cv)
+[CV](about/cv)
 
 [Personal projects](projects/personal)
 
