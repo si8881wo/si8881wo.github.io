@@ -1,7 +1,8 @@
 ---
 layout: default
-permalink: /index/
 ---
+
+{% link {{ page.my_variable }} %}
 
 Welcome to my personal website.
 
