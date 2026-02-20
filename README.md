@@ -2,4 +2,4 @@
 
 My personal website
 
-[Link to a test page](./test)
+[Link to a test page](test)
