@@ -1,8 +1,8 @@
 ---
+theme: jekyll-theme-minimal
 layout: page
 title: "Test page"
 permalink: /test/
-theme: jekyll-theme-minimal
 ---
 
 Here I'm just testing how to set up a page and how things look.
