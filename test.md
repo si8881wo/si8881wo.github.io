@@ -1,6 +1,5 @@
 ---
-theme: jekyll-theme-minimal
-layout: page
+layout: default
 title: "Test page"
 permalink: /test/
 ---
