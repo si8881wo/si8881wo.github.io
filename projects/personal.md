@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Personal Projects"
 permalink: /projects/personal/
 ---

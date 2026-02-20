@@ -13,3 +13,8 @@ Welcome to my personal website.
 [Scientific projects](projects/scientific)
 
 [Link to a test page](test)
+
+Here you can find my public git repos:
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
