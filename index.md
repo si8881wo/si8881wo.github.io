@@ -6,7 +6,7 @@ Welcome to my personal website.
 
 [About me](about/me/)
 
-[CV](about/cv/)
+[CV](about/cv)
 
 [Personal projects](projects/personal/)
 
