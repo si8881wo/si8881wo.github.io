@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: Simon Wozny's homepage
 description: My personal website
+sidebar:
+  - test
