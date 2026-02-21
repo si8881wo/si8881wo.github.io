@@ -16,6 +16,6 @@ Welcome to my personal website.
 
 [Link to a test page](test)
 
-{% for page in pages %}
-  - [{{page.title}}]({{page.url}}
+{% for page in site.pages %}
+  * [{{page.title}}]({{page.url}}
 {% endfor %}
