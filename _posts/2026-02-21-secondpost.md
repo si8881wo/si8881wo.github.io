@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Testing the blog features"
+title: "Testing the blog features, scientific post"
 tags: scientific
 ---
 
-# Welcome
-
-** Hello world**, I'm just testing out the blog posts with Jekyll on my github pages.
+**Hello world**, I'm just testing out the blog posts with Jekyll on my github pages.
 
 Bye!
