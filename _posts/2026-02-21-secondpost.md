@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing the blog features"
+title: "Testing the blog features, scientific post"
 tags: scientific
 ---
 
