@@ -6,27 +6,14 @@ nav: "true"
 ---
 
 Here I will write about my personal projects.
-
-# first try
-
 <ul>
-  {% for post in site.posts %}
+{% for post in site.posts %}
+  {% if post.tags contains "scientific" %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
     </li>
-  {% endfor %}
-</ul>
-
-# second try
-
-{% for tag in site.tags %}
-  ## {{ tag[0] }}
-  {% for post in tag[1] %}
-      [{{ post.title }}]({{ post.url }})
-      {{ post.excerpt }}
-      ---
-  {% endfor %}
 {% endfor %}
+</ul>
 
 [Back to main]({{ site.url }}/)
