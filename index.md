@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: pages
 ---
 
 Welcome to my personal website.
+
+
 
 [About me](about/me)
 
@@ -13,3 +15,5 @@ Welcome to my personal website.
 [Scientific projects](projects/scientific)
 
 [Link to a test page](test)
+
+{{ site.pages }}
