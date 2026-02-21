@@ -4,6 +4,8 @@ layout: default
 
 Welcome to my personal website.
 
+
+
 [About me](about/me)
 
 [CV](about/cv)
@@ -13,3 +15,5 @@ Welcome to my personal website.
 [Scientific projects](projects/scientific)
 
 [Link to a test page](test)
+
+{{ site.pages }}
