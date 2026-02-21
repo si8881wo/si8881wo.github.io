@@ -13,6 +13,7 @@ Here I will write about my personal projects.
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
     </li>
+  {% endif %}
 {% endfor %}
 </ul>
 
