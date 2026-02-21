@@ -2,7 +2,7 @@
 <nav>
   <a href="/">Home</a>
   {% for page in site.pages %}
-      {% if page.title and pages.nav==true %}
+      {% if page.title and pages.nav == "true" %}
         <a href="{{page.url}}">{{page.title}}</a>
       {% endif %}
   {% endfor %}
