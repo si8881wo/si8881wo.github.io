@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Testing the blog features"
+tags: scientific personal
 ---
 
 # Welcome
