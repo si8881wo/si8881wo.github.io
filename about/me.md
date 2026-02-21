@@ -2,7 +2,7 @@
 layout: default
 title: "About me"
 permalink: /about/me/
-nav: true
+nav: "true"
 ---
 
 # Welcome
