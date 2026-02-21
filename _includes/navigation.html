@@ -1,5 +1,10 @@
 <!-- include navigation -->
 <nav>
   <a href="/">Home</a>
-  <a href="/about.html">About</a>
+  {% for page in site.pages %}
+      {% if page.title and nav %}
+        <a href="{{page.url}}">{{page.title}}</a>
+      {% endif %}
+  {% endfor %}
+  
 </nav>
