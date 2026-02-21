@@ -7,6 +7,8 @@ nav: "true"
 
 Here I will write about my personal projects.
 
+# first try
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -15,6 +17,8 @@ Here I will write about my personal projects.
     </li>
   {% endfor %}
 </ul>
+
+# second try
 
 {% for tag in site.tags %}
   ## {{ tag[0] }}
