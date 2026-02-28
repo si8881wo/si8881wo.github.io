@@ -6,6 +6,7 @@ nav: "true"
 ---
 
 Here I will write about my scientific interests and projects.
+In the meantime you can find an [overview of my publications on Google Scholar](https://scholar.google.com/citations?user=RbRXWM4AAAAJ&hl=en).
 
 <ul>
 {% for post in site.posts %}
